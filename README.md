@@ -34,7 +34,7 @@ const apiKey = 'YOUR_API_KEY_HERE';
 
 ## Demo Preview
 
-![App Screenshot](https://user-images.githubusercontent.com/your-screenshot-placeholder.png)
+![App Screenshot](https://user-images.githubusercontent.com/screenshot.jpeg)
 
 ## Technologies Used
 
