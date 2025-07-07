@@ -34,7 +34,7 @@ const apiKey = 'YOUR_API_KEY_HERE';
 
 ## Demo Preview
 
-![App Screenshot](https://user-images.githubusercontent.com/screenshot.jpeg)
+![App Screenshot]([https://user-images.githubusercontent.com/screenshot.jpeg](https://github.com/jawadkhatttak/Advance-Weather-App/blob/main/Screenshot.jpeg))
 
 ## Technologies Used
 
