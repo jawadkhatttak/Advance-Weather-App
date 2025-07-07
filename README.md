@@ -13,16 +13,16 @@ This is a visually appealing and responsive weather application built using HTML
 
 ## Project Structure
 
-* **index.html** — The main HTML file containing the structure of the app and embedded JavaScript.
-* **Embedded CSS** — Styles are included within a `<style>` tag for visual design, animations, layout, and responsiveness.
-* **Embedded JavaScript** — Contains logic to fetch data from the API, update the UI, handle search, and apply animations.
+* **index.html** — The main HTML file containing the structure of the app.
+* **style.css** — External CSS file for visual design, animations, layout, and responsiveness.
+* **script.js** — External JavaScript file containing logic to fetch data from the API, update the UI, handle search, and apply animations.
 * **OpenWeatherMap API** — External service used to retrieve live weather data.
 * **Unsplash Backgrounds** — Background images change dynamically based on weather conditions using high-quality Unsplash images.
 
 ## How to Use
 
-1. Clone the repository or download the `index.html` file.
-2. Open the file in any modern browser.
+1. Clone the repository or download the project files.
+2. Open the `index.html` file in any modern browser.
 3. Enter a city name and click **Search** or press **Enter**.
 4. View the current weather data with animated visuals.
 
